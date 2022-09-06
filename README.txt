@@ -1,5 +1,5 @@
 Trabalho realizado por:
--Felipe Guimarães Rossoni 
+-Felipe Guimarães Rossoni    21100486-6
 -João Pedro Feijó            21100805-7
 -Nelson Dell Osbel Junior    20107234-5
 -Thiago Müller de Oliveira   21205008-2
