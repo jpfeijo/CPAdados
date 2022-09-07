@@ -5,7 +5,7 @@ Trabalho realizado por:
 -Thiago Müller de Oliveira   21205008-2
 
 Preparações:
-Para a execução dos códigos é necessário o software Jupyter Notebook ou a IDE Visual Studio Code com a extensão do Jupyter Notebook e a instalação do ambiente virtual conda via:
+  Para a execução dos códigos é necessário o software Jupyter Notebook ou a IDE Visual Studio Code com a extensão do Jupyter Notebook e a instalação do ambiente virtual conda via:
 
 conda env create -n cpa --file .\environment.yml ("Windows")
 
@@ -18,9 +18,10 @@ Obs: executar comando via terminal ou cmd na pasta do arquivo.
 Execução:
 
 1.app:
-Subir o site de exemplo para webscraping, substituir o database do site pelo "Database" e rodar as células com as funções e os imports, e após  
+  Subir o site de exemplo para webscraping, substituir o database do site pelo "Database" e rodar as células com as funções e os imports, e após rodar a célula do programa.
+  Para o monitoramento é necessário ter rodado o programa pelo menos uma vez, e ter rodado todas as células de funções e imports.
 
 2.IMDB:
 
-Executar o código do notebook sequencialmente.
-Após a execução será gerado um arquivo "sample.json" contendo os dados sobre os filmes, e um diretório "posters" contendo as imagens dos posters dos filmes.
+  Executar o código do notebook sequencialmente.
+  Após a execução será gerado um arquivo "sample.json" contendo os dados sobre os filmes, e um diretório "posters" contendo as imagens dos posters dos filmes.
