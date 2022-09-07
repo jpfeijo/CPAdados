@@ -18,7 +18,7 @@ Obs: executar comando via terminal ou cmd na pasta do arquivo.
 Execução:
 
 1.app:
-Subir o site de exemplo para webscraping,substituira database do sitepelo "data.xl" e rodar as células 
+Subir o site de exemplo para webscraping, substituira database do sitepelo "Database" e rodar as células 
 
 2.IMDB:
 
