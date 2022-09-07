@@ -18,8 +18,9 @@ Obs: executar comando via terminal ou cmd na pasta do arquivo.
 Execução:
 
 1.app:
-Subir o site de exemplo para webscraping, substituira database do sitepelo "Database" e rodar as células 
+Subir o site de exemplo para webscraping, substituir o database do site pelo "Database" e rodar as células com as funções e os imports, e após  
 
 2.IMDB:
 
-Executar o código do notebook sequencialmente. Após a execução será gerado um arquivo "sample.json" contendo os dados sobre os filmes, e um diretório "posters" contendo as imagens dos posters dos filmes.
+Executar o código do notebook sequencialmente.
+Após a execução será gerado um arquivo "sample.json" contendo os dados sobre os filmes, e um diretório "posters" contendo as imagens dos posters dos filmes.
